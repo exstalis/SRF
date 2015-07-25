@@ -1,5 +1,5 @@
 //
-//  ViewController.h
+//  SRFLeftMenuViewController.h
 //  SimpleRedditFeed
 //
 //  Created by elif ece arslan on 7/24/15.
@@ -8,8 +8,6 @@
 
 #import <UIKit/UIKit.h>
 
-@interface ViewController : UIViewController
-
+@interface SRFLeftMenuViewController : UIViewController
 
 @end
-
