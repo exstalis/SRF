@@ -10,4 +10,11 @@
 
 @interface SRFMenuDrawerTableViewCell : UITableViewCell
 
+@property (nonatomic, copy) NSString *sectionTitle;
+@property (nonatomic, strong) UIImage *iconImage;
+@property(nonatomic, weak) UIImageView *menuCellIcon;
+@property(nonatomic, weak) UILabel *menuItemLabel;
+
+
+
 @end

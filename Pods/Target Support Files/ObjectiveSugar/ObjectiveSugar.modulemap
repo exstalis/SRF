@@ -1,0 +1,6 @@
+module ObjectiveSugar {
+  umbrella header "ObjectiveSugar-umbrella.h"
+
+  export *
+  module * { export * }
+}

@@ -1,0 +1,6 @@
+module RedditKit {
+  umbrella header "RedditKit-umbrella.h"
+
+  export *
+  module * { export * }
+}
